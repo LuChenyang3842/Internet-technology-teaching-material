@@ -1,12 +1,12 @@
 # Internet-technology-teaching-material
 
-- This repo will update weekly, normally on Monday or Tuesday
-- If you find any error in the slides, please don't be hesitate to send an email to me to discuss
+- This repo will be updated weekly, normally on Monday or Tuesday
+- If you find any error in the slides, please send an email to me to discuss, or you can write on issue section.
 - Please email me in advance if you want to use these slides as teaching material, copy right reserved. 
 
 
 ------Update 24th August----------- <br>
-For next weeks tutorial, we will be walking through Project 1 to get you acquainted with the tasks at hand by showing you a few demo's of how to run the needed commands and gather data.  <br>
+For next week's tutorial, we will be walking through Project 1 to get you acquainted with the tasks at hand by showing you a few demo's of how to run the needed commands and gather data.  <br>
 I hope all of you can have a look of project1 documents before coming to my workshop.
 
 
