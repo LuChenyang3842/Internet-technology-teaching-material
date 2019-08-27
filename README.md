@@ -6,7 +6,7 @@
 
 
 ------Update 24th August----------- <br>
-For next weeks tutorial, we will be walking through Project 1 to get you acquainted with the tasks at hand by showing you a few demo's of how to run the needed commands and gather data.  <br>
+For next week's tutorial, we will be walking through Project 1 to get you acquainted with the tasks at hand by showing you a few demo's of how to run the needed commands and gather data.  <br>
 I hope all of you can have a look of project1 documents before coming to my workshop.
 
 
