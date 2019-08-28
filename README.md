@@ -5,6 +5,11 @@
 - Please email me in advance if you want to use these slides as teaching material, copy right reserved. 
 
 
+------Update 28th August----------- <br>
+I did some minor update to week5 at 11:50 AM 28th Aug, please download the newest version 
+
+
+
 ------Update 24th August----------- <br>
 For next week's tutorial, we will be walking through Project 1 to get you acquainted with the tasks at hand by showing you a few demo's of how to run the needed commands and gather data.  <br>
 I hope all of you can have a look of project1 documents before coming to my workshop.
