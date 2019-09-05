@@ -7,9 +7,9 @@
 **------Update 5th Sep----------- <br>**
 **There are some minor updates to workshop6 page7 and page13** <br>
 The major change is in page7.<br>
-There two different parity method --- even parity and odd parity. <br>
-In the workshop, the method we discussed is: For even parity, we XOR evey bits (including parity) together to be 0. For odd parity, we XOR evey bit(including parity) together to be 1.  <br>
-However, I realize this methods might not be easy for you to understand. So I have provided anoher methodd for you (which is also taught in lecture): <br>
+There are two different parity methods --- even parity and odd parity. <br>
+In the workshop, the approach we discussed to determine the parity is: For even parity, we XOR evey bits (including parity) together to be 0. For odd parity, we XOR evey bit(including parity) together to be 1.  <br> <br>
+However, I realize this methods might not be easy for you to understand. So I provid anoher approach for you (which is also taught in lecture) to determine pariy: <br>
 
 In the case of even parity, for a given set of bits, the occurrences of bits whose value is 1 is counted. If that count is odd, the parity bit value is set to 1, making the total count of occurrences of 1s in the whole set (including the parity bit) an even number. If the count of 1s in a given set of bits is already even, the parity bit's value is 0. <br>
 
