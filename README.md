@@ -5,7 +5,7 @@
 - Please email me in advance if you want to use these slides as teaching material, copy right reserved. 
 
 **------Update 5th Sep----------- <br>**
-**There's some minor update to workshop6 page7 and page13** <br>
+**There are some minor updates to workshop6 page7 and page13** <br>
 The major change is in page7.<br>
 There two different parity method --- even parity and odd parity. <br>
 In the workshop, the method we discussed is: For even parity, we XOR evey bits (including parity) together to be 0. For odd parity, we XOR evey bit(including parity) together to be 1.  <br>
