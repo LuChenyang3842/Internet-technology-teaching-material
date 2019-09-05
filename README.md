@@ -4,7 +4,7 @@
 - If you find any error in the slides, please send an email to me to discuss, or you can write on issue section.
 - Please email me in advance if you want to use these slides as teaching material, copy right reserved. 
 
-------Update 5th Sep----------- <br>
+**------Update 5th Sep----------- <br>**
 **There's some minor update to workshop6 page7 and page13** <br>
 The major change is in page7.<br>
 There two different parity method --- even parity and odd parity. <br>
@@ -16,7 +16,9 @@ In the case of even parity, for a given set of bits, the occurrences of bits who
 In the case of odd parity, the coding is reversed. For a given set of bits, if the count of bits with a value of 1 is even, the parity bit value is set to 1 making the total count of 1s in the whole set (including the parity bit) an odd number. If the count of bits with a value of 1 is odd, the count is already odd so the parity bit's value is 0. <br>
 
 
-
+<br>
+<br>
+<br>
 
 
 ------Update 28th August----------- <br>
