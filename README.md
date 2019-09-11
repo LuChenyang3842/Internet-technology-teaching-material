@@ -1,8 +1,23 @@
 # Internet-technology-teaching-material
-
 - This repo will be updated weekly, normally on Monday or Tuesday
 - If you find any error in the slides, please send an email to me to discuss, or you can write on issue section.
 - Please email me in advance if you want to use these slides as teaching material, copy right reserved. 
+
+**------Update 5th Sep----------- <br>**
+**There are some minor updates to workshop6 page7 and page13** <br>
+The major change is in page7.<br>
+There are two different parity methods --- even parity and odd parity. <br>
+In the workshop, the approach we discussed to determine the parity is: For even parity, we XOR evey bits (including parity) together to be 0. For odd parity, we XOR evey bit(including parity) together to be 1.  <br> <br>
+However, I realize this methods might not be easy for you to understand. So I provid anoher approach for you (which is also taught in lecture) to determine pariy: <br>
+
+In the case of even parity, for a given set of bits, the occurrences of bits whose value is 1 is counted. If that count is odd, the parity bit value is set to 1, making the total count of occurrences of 1s in the whole set (including the parity bit) an even number. If the count of 1s in a given set of bits is already even, the parity bit's value is 0. <br>
+
+In the case of odd parity, the coding is reversed. For a given set of bits, if the count of bits with a value of 1 is even, the parity bit value is set to 1 making the total count of 1s in the whole set (including the parity bit) an odd number. If the count of bits with a value of 1 is odd, the count is already odd so the parity bit's value is 0. <br>
+
+
+<br>
+<br>
+<br>
 
 
 ------Update 28th August----------- <br>
