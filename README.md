@@ -3,6 +3,12 @@
 - If you find any error in the slides, please send an email to me to discuss, or you can write on issue section.
 - Please email me in advance if you want to use these slides as teaching material, copy right reserved. 
 
+
+# Tutor feedback <br>
+https://apps.eng.unimelb.edu.au/casmas/index.php?r=qoct/feedback&subjCode=COMP90007
+
+
+
 **------Update 5th Sep----------- <br>**
 **There are some minor updates to workshop6 page7 and page13** <br>
 The major change is in page7.<br>
