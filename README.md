@@ -1,7 +1,5 @@
-# Internet-technology-teaching-material
-- This repo will be updated weekly, normally on Monday or Tuesday
-- If you find any error in the slides, please send an email to me to discuss, or you can write on issue section.
-- Please email me in advance if you want to use these slides as teaching material, copy right reserved. 
+
+***Urgent!!It seems I haven't collect enough feedback from you, I would be really appreciate if you can do tutor feedback for me, thanks in advance***
 
 
 ## Tutor feedback <br>
@@ -9,6 +7,11 @@ https://apps.eng.unimelb.edu.au/casmas/index.php?r=qoct/feedback&subjCode=COMP90
 
 
 ## Update information
+**------Update 24th Oct----------- <br>**
+
+I made an minor update to week6 page9, The hamming distance for standard 32 bits CRC is 4, please refer to week3, page 24.<br>
+Agian, thanks for coming to my workshops! <br>
+If you find any mistake in my slides, please don't be hesitate to send an email to me, I would be really appreciate.
 
 **------Update 5th Sep----------- <br>**
 **There are some minor updates to workshop6 page7 and page13** <br>
