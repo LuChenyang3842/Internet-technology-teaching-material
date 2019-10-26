@@ -13,9 +13,9 @@ https://apps.eng.unimelb.edu.au/casmas/index.php?r=qoct/feedback&subjCode=COMP90
 Minor update to week12, page 13. The correction is: the question 2 is a concept of "signitue of public keys as individuals" but it is not "signiture with message digest".<br>
 
 There are three ways of signiture, refer to lecture week11 page 7:
- Using symmetric keys via an intermediary
- Using public keys as individuals
- Signiture with message digest
+- Using symmetric keys via an intermediary
+- Using public keys as individuals
+- Signiture with message digest
 
 **------Update 24th Oct----------- <br>**
 
