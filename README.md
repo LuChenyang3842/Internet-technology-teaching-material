@@ -7,6 +7,16 @@ https://apps.eng.unimelb.edu.au/casmas/index.php?r=qoct/feedback&subjCode=COMP90
 
 
 ## Update information
+
+**------Update 26th Oct----------- <br>**
+
+Minor update to week12, page 13. The correction is: the question 2 is a concept of "signitue of public keys as individuals" but it is not "signiture with message digest".<br>
+
+There are three ways of signiture, refer to lecture week11 page 7:
+ Using symmetric keys via an intermediary
+ Using public keys as individuals
+ Signiture with message digest
+
 **------Update 24th Oct----------- <br>**
 
 I made an minor update to week6 page9, The hamming distance for standard 32 bits CRC is 4, please refer to week3, page 24.<br>
