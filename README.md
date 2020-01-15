@@ -1,12 +1,11 @@
 
-***Urgent!!It seems I haven't collect enough feedback from you, I would be really appreciate if you can do tutor feedback for me, thanks in advance***
-
-
-## Tutor feedback <br>
-https://apps.eng.unimelb.edu.au/casmas/index.php?r=qoct/feedback&subjCode=COMP90007
-
-
 ## Update information
+
+**------Last Update---------- <br>**
+I was a great journey for me to teach you through this semster, it's my pleasure if you benefits my tutorial or the materials. I'd also like to keep in touch with all of you, if you need any help no matter course related or job related, you're welcomed send email to my personal email address clu3842@gmail.com<br>
+all the best <br>
+Luke
+
 
 **------Update 26th Oct----------- <br>**
 
